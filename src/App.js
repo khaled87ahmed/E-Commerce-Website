@@ -22,7 +22,7 @@ import ToPayment from './Components/ToPayment/ToPayment';
 import AllOrders from './Components/AllOrders/AllOrders';
 
 
-let routes = createBrowserRouter([
+let routes = createHashRouter([
   {
     path: '', element: <Layout />, children: [
       { index: true, element: <Protected><Home /></Protected> },
