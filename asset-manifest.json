@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-Website/static/css/main.39c3704d.css",
+    "main.js": "/E-Commerce-Website/static/js/main.e7e2cafd.js",
+    "static/js/787.af04e08f.chunk.js": "/E-Commerce-Website/static/js/787.af04e08f.chunk.js",
+    "static/media/light-patten.svg": "/E-Commerce-Website/static/media/light-patten.ed706aff39a009de4e8001ed31f5a17c.svg",
+    "static/media/fa-solid-900.ttf": "/E-Commerce-Website/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/E-Commerce-Website/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/E-Commerce-Website/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/404.png": "/E-Commerce-Website/static/media/404.078bc15296850f7e0284.png",
+    "static/media/fa-brands-400.woff2": "/E-Commerce-Website/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/E-Commerce-Website/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/resetPass.pnj.png": "/E-Commerce-Website/static/media/resetPass.pnj.2abfb1c8a6e695151387.png",
+    "static/media/fa-regular-400.woff2": "/E-Commerce-Website/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/freshcart-logo.svg": "/E-Commerce-Website/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-Commerce-Website/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-Commerce-Website/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/E-Commerce-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-Commerce-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-Commerce-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-Commerce-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-Commerce-Website/index.html",
+    "main.39c3704d.css.map": "/E-Commerce-Website/static/css/main.39c3704d.css.map",
+    "main.e7e2cafd.js.map": "/E-Commerce-Website/static/js/main.e7e2cafd.js.map",
+    "787.af04e08f.chunk.js.map": "/E-Commerce-Website/static/js/787.af04e08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c3704d.css",
+    "static/js/main.e7e2cafd.js"
+  ]
+}
